@@ -1,4 +1,4 @@
-## Utkarsh Katiyar (24BAI10773)
+## Aryan Gupta (25BAI11516)
 
 # Campus Course & Records Manager (CCRM)
 
